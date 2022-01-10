@@ -2,3 +2,7 @@ name: BetterBounties
 version: 1.0
 main: me.silentprogram.betterbounties.BetterBounties
 api-version: 1.16
+
+commands:
+  bounties:
+    description: Brings up the bounties menu.
