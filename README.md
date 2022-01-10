@@ -1,3 +1,3 @@
 # BetterBounties
 
-A very custom bounty system for minecraft
+A custom bounty system for minecraft
